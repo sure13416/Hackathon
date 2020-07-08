@@ -1,0 +1,4 @@
+Task: 1, Test Name: Search Box is displayed, DOM Id: //*[@id="INPUTtext____42"], Viewport: 1000X700, Device: Laptop, Status: True
+Task: 2, Test Name: Filter is displayed, DOM Id: //*[@id="ti-filter"], Viewport: 1000X700, Device: Laptop, Status: True
+Task: 2, Test Name: Filter Box is displayed, DOM Id: //*[@id="filterBtn"], Viewport: 1000X700, Device: Laptop, Status: True
+Task: 3, Test Name: Product page is displayed, DOM Id: //*[@id="shoe_name"], Viewport: 1000X700, Device: Laptop, Status: True
